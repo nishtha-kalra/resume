@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Nishtha Kalra Resume</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="C:\Users\akant\Desktop\Resume\css\custom.css">
+  <link rel="stylesheet" href="C:\Users\akant\Desktop\Resume\css\font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+		<div class="row">
+                    <h1>NISHTHA KALRA</h1>
+		</div>
+		<div class="row">
+	            <div class="row">
+		        <div class="col-md-6">
+			    <h4><i class="fa fa-envelope" aria-hidden="true"></i> nishtha.kalra25@gmail.com</h4>
+			</div>
+		        <div class="col-md-6">
+			    <h4><i class="fa fa-mobile" aria-hidden="true"></i> +91 9975463373</h4>
+			</div>
+		    </div>
+		    <div class="row">
+                        <div class="col-md-6">
+		            <h4><i class="fa fa-linkedin" aria-hidden="true"></i><a href="http://www.linkedin.com/in/nishtha-kalra-3ba716a0" target="_blank" style="color: black;"> www.linkedin.com/in/nishtha-kalra-3ba716a0</a></h4>
+                        </div>
+		        <div class="col-md-6">
+		            <h4><i class="fa fa-github" aria-hidden="true"></i><a href="http://www.github.com/nishtha-kalra" target="_blank" style="color: black;"> www.github.com/nishtha-kalra</a></h4>
+		        </div>
+                    </div>
+		</div>
+            </div>
+            <div class="col-md-2">
+	        <img src="C:\Users\akant\Desktop\Resume\images\pic.jpg" alt="error loading photo" width="100%" height="100%" style="padding: 10px;"></img>
+            </div>
+        </div>
+	<div class="row">
+	    <div class="col-md-6">
+		<h2><u>EXPERIENCE</u></h2>
+	    </div>
+	    <div class="col-md-6">
+		<h2>PROJECTS</h2>
+            </div>
+	</div>
+	<div class="row">
+	    <div class="col-md-6">
+	        <h2>EDUCATION</h2>
+	    </div>
+	    <div class="col-md-6">
+	        <h2>SKILLS<h2>
+	    </div>
+	</div>
+    </div>
+</body>
+</html>

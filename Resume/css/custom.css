@@ -1,0 +1,23 @@
+/**{
+border: 1px solid red;
+}*/
+h1, h2, h4{
+	color: SteelBlue;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    color: SteelBlue; /* old IE */
+    background-color: SteelBlue; /* Modern Browsers */
+}
+
+.hr-dot{
+	border:none;
+  border-top:1px dotted SteelBlue;
+  color:#fff;
+  background-color:#fff;
+  height:1px;
+  width:100%;
+}
+
