@@ -1,6 +1,10 @@
 /**{
 border: 1px solid red;
 }*/
+p, ul {
+	text-align: justify;
+}
+
 h1, h2, h4{
 	color: SteelBlue;
 }
@@ -14,10 +18,10 @@ hr {
 
 .hr-dot{
 	border:none;
-  border-top:1px dotted SteelBlue;
-  color:#fff;
-  background-color:#fff;
-  height:1px;
-  width:100%;
+	border-top:1px dotted LightSteelBlue;
+	color:#fff;
+	background-color:#fff;
+	height:1px;
+	width:100%;
 }
 
